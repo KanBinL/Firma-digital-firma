@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exportar>
+  <DataSet>tiposiva</DataSet>
+  <Fecha-Hora>20230410133548</Fecha-Hora>
+  <Usuario>aitorparadalinaje002@gmail.com</Usuario>
+  <Organización>Ayuntamiento de Castro Urdiales</Organización>
+  <tiposiva>
+    <nombretipoiva>Exento</nombretipoiva>
+    <tipoiva>0.00</tipoiva>
+    <tiporec>0.00</tiporec>
+    <fechainiciovalidez>01-09-2012 00:00:00</fechainiciovalidez>
+    <fechafinvalidez/>
+  </tiposiva>
+  <tiposiva>
+    <nombretipoiva>Reducido</nombretipoiva>
+    <tipoiva>10.00</tipoiva>
+    <tiporec>1.40</tiporec>
+    <fechainiciovalidez>01-09-2012 00:00:00</fechainiciovalidez>
+    <fechafinvalidez/>
+  </tiposiva>
+  <tiposiva>
+    <nombretipoiva>Super Reducido</nombretipoiva>
+    <tipoiva>4.00</tipoiva>
+    <tiporec>0.50</tiporec>
+    <fechainiciovalidez>01-09-2012 00:00:00</fechainiciovalidez>
+    <fechafinvalidez/>
+  </tiposiva>
+  <tiposiva>
+    <nombretipoiva>Normal</nombretipoiva>
+    <tipoiva>21.00</tipoiva>
+    <tiporec>5.20</tiporec>
+    <fechainiciovalidez>01-09-2012 00:00:00</fechainiciovalidez>
+    <fechafinvalidez/>
+    <familias>
+      <nombrefamilia>Adecuamiento técnico locales</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>Acondicionamiento de salas técnicas</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>Adecuamiento técnico locales</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>C1-Costes copia / repuestos</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>ISI-102 Color C-11000SCAND- PADRON NASH.SCAN C DSC</nombrearticulo>
+        <codigoarticulo>52</codigoarticulo>
+        <precioventa>37.72</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>37.72</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-102 NegroC-11000SCANC- PADRON NASH.SCAN N DSC4</nombrearticulo>
+        <codigoarticulo>53</codigoarticulo>
+        <precioventa>12.71</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>12.71</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-1297 negro-xerox  M35 V_MSTN Nº SERIE: 2232236</nombrearticulo>
+        <codigoarticulo>90</codigoarticulo>
+        <precioventa>11.59</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>11.59</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-200 Color C-11000SCAD- NASH DSC428 ESC.TALLER</nombrearticulo>
+        <codigoarticulo>41</codigoarticulo>
+        <precioventa>37.72</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>37.72</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-200 Negro C-11000SCAND- NASH DSC428 ESC.TALLER</nombrearticulo>
+        <codigoarticulo>42</codigoarticulo>
+        <precioventa>12.71</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>12.71</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-280  NegroC-11000SCANN- LA RESID. NASH. SCAN N</nombrearticulo>
+        <codigoarticulo>48</codigoarticulo>
+        <precioventa>13.22</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>13.22</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-280 Color  C-11000SCANC- LA RESID. NASH SCAN C</nombrearticulo>
+        <codigoarticulo>47</codigoarticulo>
+        <precioventa>36.08</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>36.08</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-4844 Negro  C-11000COPIM- NASH. MP-3500</nombrearticulo>
+        <codigoarticulo>56</codigoarticulo>
+        <precioventa>8.81</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>8.81</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-5727  Color  C-110014CFSC52- FSC-5200 BIBLIO.</nombrearticulo>
+        <codigoarticulo>37</codigoarticulo>
+        <precioventa>113.20</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>113.20</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-5727 Negro C-11001NFSC52- FS-5200 BIBLIO</nombrearticulo>
+        <codigoarticulo>38</codigoarticulo>
+        <precioventa>20.30</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>20.30</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-5747 NegroC-11001COFS40- SERV.ECON. FS-4020DN</nombrearticulo>
+        <codigoarticulo>57</codigoarticulo>
+        <precioventa>6.46</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>6.46</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-6049 Color  C-11001CFSC53- POLICIA FSC-53020</nombrearticulo>
+        <codigoarticulo>54</codigoarticulo>
+        <precioventa>91.90</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>91.90</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-6049 NegroC-1100INFSC53- POLICIA FSC-5300</nombrearticulo>
+        <codigoarticulo>55</codigoarticulo>
+        <precioventa>18.75</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>18.75</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-6447 Negro C-11001COPFSI- ASUNT.SOC. FS-1320</nombrearticulo>
+        <codigoarticulo>39</codigoarticulo>
+        <precioventa>16.19</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>16.19</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-6857Negro  C-11001COFS40- RRHH FS-4020</nombrearticulo>
+        <codigoarticulo>35</codigoarticulo>
+        <precioventa>6.46</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>6.46</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-6858 Negro  C-11001COPFS1- CONSER. FS-1320</nombrearticulo>
+        <codigoarticulo>36</codigoarticulo>
+        <precioventa>16.19</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>16.19</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-6897 Negro C-110001COPFS1- RENTAS FS-1320</nombrearticulo>
+        <codigoarticulo>63</codigoarticulo>
+        <precioventa>16.19</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>16.19</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7057  Color C-11001CFSC52- SERV.TEC.FSC-5200</nombrearticulo>
+        <codigoarticulo>58</codigoarticulo>
+        <precioventa>113.26</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>113.26</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7057 Color C-11001CFSC52- SERV,TEC. FSC-5200</nombrearticulo>
+        <codigoarticulo>68</codigoarticulo>
+        <precioventa>113.26</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>113.26</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7057 Color C-11001NFSC52- SERV.TEC. FS-5200</nombrearticulo>
+        <codigoarticulo>69</codigoarticulo>
+        <precioventa>20.30</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>20.30</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7057 Negro C-1100INFSC52- SERV.TEC.FS-5200</nombrearticulo>
+        <codigoarticulo>59</codigoarticulo>
+        <precioventa>20.30</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>20.30</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7080 Color C-11001CFSC52- SERV.TEC.GERENTE FSC</nombrearticulo>
+        <codigoarticulo>70</codigoarticulo>
+        <precioventa>113.26</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>113.26</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7080 Negro C-1100INFSC52- SERV.TEC.GERENTE FS-</nombrearticulo>
+        <codigoarticulo>60</codigoarticulo>
+        <precioventa>20.30</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>20.30</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7497 Negro C-11001COP-K- KM-4035</nombrearticulo>
+        <codigoarticulo>45</codigoarticulo>
+        <precioventa>7.38</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>7.38</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7498 color C-11003CCMPC- SERV.TEC.NASH.MPC3500</nombrearticulo>
+        <codigoarticulo>61</codigoarticulo>
+        <precioventa>31.67</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>31.67</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7498 Negro C-11003CNMPC- SERV.TEC. NASH. MPC35</nombrearticulo>
+        <codigoarticulo>62</codigoarticulo>
+        <precioventa>12.30</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>12.30</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7537 Color  C-11000SCCMP-COLOR.DEPORTES NAS.MP</nombrearticulo>
+        <codigoarticulo>50</codigoarticulo>
+        <precioventa>111.60</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>111.60</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7537 NegroC-11000SCNMP- NEGRO DEPORTES NASH. M</nombrearticulo>
+        <codigoarticulo>51</codigoarticulo>
+        <precioventa>12.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>12.00</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7757  NegroC-11001COPKM- CONCEJ. KM-3035</nombrearticulo>
+        <codigoarticulo>46</codigoarticulo>
+        <precioventa>8.30</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>8.30</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7758  Negro C-11001COPKM- ASUNT.SOC. KM-3035</nombrearticulo>
+        <codigoarticulo>40</codigoarticulo>
+        <precioventa>8.30</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>8.30</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-7760 C-11000COPIDS- LA RESID. NASH. DSM-735</nombrearticulo>
+        <codigoarticulo>49</codigoarticulo>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-8037 Color C-11000SCCMP- NASH. INTERV. SCAN N</nombrearticulo>
+        <codigoarticulo>44</codigoarticulo>
+        <precioventa>36.08</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>36.08</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-8037 Negro C-11000SCCMP- NASH. INTERV. SCAN C</nombrearticulo>
+        <codigoarticulo>43</codigoarticulo>
+        <precioventa>13.22</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>13.22</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9053 Color C-11001CLC212- ASILILLO KYOCERA FSC</nombrearticulo>
+        <codigoarticulo>66</codigoarticulo>
+        <precioventa>94.90</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>94.90</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9053 negro C-1100INGC21- ASILILLO KYOCERAMITA</nombrearticulo>
+        <codigoarticulo>67</codigoarticulo>
+        <precioventa>18.45</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>18.45</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9054 Color C-11001CLC212- LA RESID.RECEP. KYOC</nombrearticulo>
+        <codigoarticulo>64</codigoarticulo>
+        <precioventa>94.90</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>94.90</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9054 Negro C-11001NGC21- LA RESID.RECEP. KYOCE</nombrearticulo>
+        <codigoarticulo>65</codigoarticulo>
+        <precioventa>18.45</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>18.45</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9055 Color  C-11001CLC212 ASILILLO Kyocera Enf</nombrearticulo>
+        <codigoarticulo>88</codigoarticulo>
+        <precioventa>94.90</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>94.90</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9055 Negro  C-11001NGC21 ASILILLO Kyocera Enfe</nombrearticulo>
+        <codigoarticulo>87</codigoarticulo>
+        <precioventa>16.19</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>16.19</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9161 Negro-Xerox C45 V_MST</nombrearticulo>
+        <codigoarticulo>89</codigoarticulo>
+        <precioventa>10.44</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>10.44</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9162 Color C-11000COLMP NASH MPC-2050</nombrearticulo>
+        <codigoarticulo>85</codigoarticulo>
+        <precioventa>121.40</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>121.40</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9162 Negro C-11000NEGMP NASH  MPC-2050</nombrearticulo>
+        <codigoarticulo>86</codigoarticulo>
+        <precioventa>13.22</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>13.22</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>MOD. M35 V_MSTN Nº SERIE: 2232236410 RECAUDACION</nombrearticulo>
+        <codigoarticulo>72</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Toner Nashuatec Amarillo MPC2030/2530/2050/2550-Ky</nombrearticulo>
+        <codigoarticulo>77</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Toner Nashuatec CYAN MPC2030/2530/2050/2550-Kyocer</nombrearticulo>
+        <codigoarticulo>80</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Toner Nashuatec Magenta MPC2030/2530/2050/2550-Kyo</nombrearticulo>
+        <codigoarticulo>81</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Toner Nashuatec MPC 3000 Negro/MPC2000/2500/3000</nombrearticulo>
+        <codigoarticulo>83</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Toner Nashuatec Negro MPC2030/2530/2050/2550-Kyoce</nombrearticulo>
+        <codigoarticulo>82</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>C1-Costes copia / repuestos</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>Compra de material informatico</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>Pantalla 4k</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>2000.00</precioventa>
+        <idpersonaproveedor>Adrián Urquijo Agote</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>Compra de material informatico</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>compra interna</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+    </familias>
+    <familias>
+      <nombrefamilia>Comunicaciones</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>Línea Internet / Adsl/Fibra</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>30.47</precioventa>
+        <idpersonaproveedor>Telefónica</idpersonaproveedor>
+        <preciocompra>30.47</preciocompra>
+        <idfamilia>Comunicaciones</idfamilia>
+        <fechabaja/>
+        <gestionstock>No</gestionstock>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>RDSI Básico</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>17.09</precioventa>
+        <idpersonaproveedor>Telefónica</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>Comunicaciones</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Rdsi Primario</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>583.44</precioventa>
+        <idpersonaproveedor>Telefónica</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>Comunicaciones</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>Comunicaciones Voz y Datos</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>LLamadas Perdidas (Mensajes Dictado</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>0.24</precioventa>
+        <idpersonaproveedor>UTE Telefónica de España-Telefónica Móviles</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>Comunicaciones Voz y Datos</idfamilia>
+        <fechabaja/>
+        <gestionstock>No</gestionstock>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>GENERAL</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>420031 GZ BASE 6T C/INT 1.5MMX1 1.5</nombrearticulo>
+        <codigoarticulo>94305663</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Castrogres</idpersonaproveedor>
+        <preciocompra>7.19</preciocompra>
+        <idfamilia>GENERAL</idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones>420031 GZ BASE 6T C/INT 1.5MMX1 1.5M PS NEG</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>71214 RADIADOR DE ACEITE EDM 1500W </nombrearticulo>
+        <codigoarticulo>94333270</codigoarticulo>
+        <precioventa/>
+        <idpersonaproveedor>Castrogres</idpersonaproveedor>
+        <preciocompra>46.39</preciocompra>
+        <idfamilia>GENERAL</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Aceite Fusor NASHUATEC DMK2238</nombrearticulo>
+        <codigoarticulo>93</codigoarticulo>
+        <precioventa>70100.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>70100.00</preciocompra>
+        <idfamilia>GENERAL</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Evolis Pebble</nombrearticulo>
+        <codigoarticulo>25</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>GENERAL</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>Infraestructura de cableado </nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>Hora de instalador/servicio técnico</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>33.06</precioventa>
+        <idpersonaproveedor>Kanbin Lou</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>Infraestructura de cableado </idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones>Https://www.cronoshare.com/cuanto-cuesta/electricista-hora</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Latiguillo RJ45 Cat6 UTP 0.5m</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>1.65</precioventa>
+        <idpersonaproveedor>Kanbin Lou</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>Infraestructura de cableado </idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Latiguillo RJ45 Cat6 UTP 15m</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>5.79</precioventa>
+        <idpersonaproveedor>Kanbin Lou</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>Infraestructura de cableado </idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Latiguillo RJ45 Cat6 UTP 3m</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>2.48</precioventa>
+        <idpersonaproveedor>Kanbin Lou</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>Infraestructura de cableado </idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nanocable Cable UTP CAT6 100m Rígid</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>30.58</precioventa>
+        <idpersonaproveedor>Kanbin Lou</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>Infraestructura de cableado </idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Panel de conexión RJ RS PRO, Cat5e</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>66.12</precioventa>
+        <idpersonaproveedor>Kanbin Lou</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>Infraestructura de cableado </idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Puesto Electrico 4 Schukos y 2 RJ45</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>37.19</precioventa>
+        <idpersonaproveedor>Kanbin Lou</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>Infraestructura de cableado </idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones>Https://www.cablepelado.es/kit-puesto-trabajo-electrico-4-schukos-y-2-rj45-blanco?gclid=EAIaIQobChMIg67Anej67wIVBQUGAB2o2QrDEAQYASABEgLvL_D_BwE</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>M1-Multifuncion A4</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>HP OfficeJet 6100</nombrearticulo>
+        <codigoarticulo>24</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP officejet pro L7680</nombrearticulo>
+        <codigoarticulo>3</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9275 Impresora TASKALFA 266CI</nombrearticulo>
+        <codigoarticulo>98</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9518 Color Kyocera FS-C5400dn</nombrearticulo>
+        <codigoarticulo>102</codigoarticulo>
+        <precioventa>91.90</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>91.90</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9518 negro Kyocera FS-C5400dn</nombrearticulo>
+        <codigoarticulo>103</codigoarticulo>
+        <precioventa>18.75</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>18.75</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera FS-C2026MFP</nombrearticulo>
+        <codigoarticulo>16</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera FS-C5400dn</nombrearticulo>
+        <codigoarticulo>101</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nashuatec 1320</nombrearticulo>
+        <codigoarticulo>34</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nashuatec NGR MP C3000</nombrearticulo>
+        <codigoarticulo>10</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M1-Multifuncion A4</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>M2-Multifunción A3</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>Impresora Kyocera Taskalfa 250</nombrearticulo>
+        <codigoarticulo>96</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9208  color Impresora Kyocera Taskalfa 250</nombrearticulo>
+        <codigoarticulo>94</codigoarticulo>
+        <precioventa>121.40</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>121.40</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9208 Negro  Kyocera Taskalfa 250</nombrearticulo>
+        <codigoarticulo>95</codigoarticulo>
+        <precioventa>13.22</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>13.22</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera FS-C5200-DN</nombrearticulo>
+        <codigoarticulo>5</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera KM-3035</nombrearticulo>
+        <codigoarticulo>73</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera KM-4035</nombrearticulo>
+        <codigoarticulo>33</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>MOD. C45 V_MST Nº SERIE 2232060223 2ª PL AYTO</nombrearticulo>
+        <codigoarticulo>71</codigoarticulo>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nashuatec DSM-735</nombrearticulo>
+        <codigoarticulo>74</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nashuatec MP C2050AD</nombrearticulo>
+        <codigoarticulo>84</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nashuatec NGR DSc328</nombrearticulo>
+        <codigoarticulo>17</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nashuatec NGR DSc428</nombrearticulo>
+        <codigoarticulo>15</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nashuatec NGR MP 3500</nombrearticulo>
+        <codigoarticulo>1</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Nasuatec NGR DSc435</nombrearticulo>
+        <codigoarticulo>13</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Xerox C45 V_MST Nº SERIE 2232060223 2ª PL AYTO</nombrearticulo>
+        <codigoarticulo>76</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Xerox M35 V_MSTN</nombrearticulo>
+        <codigoarticulo>21</codigoarticulo>
+        <precioventa>10.72</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>10.72</preciocompra>
+        <idfamilia>M2-Multifunción A3</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>M3-Impresora Laser BN</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>HP Business Inkjet 1200n</nombrearticulo>
+        <codigoarticulo>4</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP Designjet 70</nombrearticulo>
+        <codigoarticulo>26</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP Laser 2100</nombrearticulo>
+        <codigoarticulo>28</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP Laserjet 1300</nombrearticulo>
+        <codigoarticulo>22</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP Laserjet 2420</nombrearticulo>
+        <codigoarticulo>6</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP laserjet 4250n</nombrearticulo>
+        <codigoarticulo>2</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP LaserJet P3005</nombrearticulo>
+        <codigoarticulo>14</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9056 FS-1320 Médico Residencia- L4X2Y05771</nombrearticulo>
+        <codigoarticulo>97</codigoarticulo>
+        <precioventa>16.19</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>16.19</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9182 Color  LA RESID. NASH. SCAN N DSC328</nombrearticulo>
+        <codigoarticulo>92</codigoarticulo>
+        <precioventa>121.40</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>121.40</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera 1320D</nombrearticulo>
+        <codigoarticulo>23</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera FS-1320-D</nombrearticulo>
+        <codigoarticulo>9</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera FS-4020-DN</nombrearticulo>
+        <codigoarticulo>12</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Lexmark E332N</nombrearticulo>
+        <codigoarticulo>30</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M3-Impresora Laser BN</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>M4-Impresora Laser Color</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>DELL InkJet 962</nombrearticulo>
+        <codigoarticulo>31</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M4-Impresora Laser Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP Color Inkjet CP 1700</nombrearticulo>
+        <codigoarticulo>19</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M4-Impresora Laser Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP Laserjet Color 2550</nombrearticulo>
+        <codigoarticulo>18</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M4-Impresora Laser Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP Laserjet CP 2025n</nombrearticulo>
+        <codigoarticulo>7</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M4-Impresora Laser Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP OfficeJet Pro K8600</nombrearticulo>
+        <codigoarticulo>8</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M4-Impresora Laser Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Kyocera FS-C5300-DN</nombrearticulo>
+        <codigoarticulo>11</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M4-Impresora Laser Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>M5-Impresora Inyeccción Color</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>HP Deskjet 5150</nombrearticulo>
+        <codigoarticulo>27</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M5-Impresora Inyeccción Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>HP OfficeJet 7000</nombrearticulo>
+        <codigoarticulo>29</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>0.00</preciocompra>
+        <idfamilia>M5-Impresora Inyeccción Color</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>M6-Impresora Inyección Negro</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>ISI-7760 NEGRO C-11000COPIDS- LA RESID. NASH. DSM-</nombrearticulo>
+        <codigoarticulo>104</codigoarticulo>
+        <precioventa>8.81</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>8.81</preciocompra>
+        <idfamilia>M6-Impresora Inyección Negro</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>Materiales para reparar equipo</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>8920040 MALETA DE HERRAMIENTAS PLT </nombrearticulo>
+        <codigoarticulo>943118711</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Castrogres</idpersonaproveedor>
+        <preciocompra>35.50</preciocompra>
+        <idfamilia>Materiales para reparar equipo</idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones>8920040 MALETA DE HERRAMIENTAS PLT 40 PZS</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Disco duro de 20Gb SSD Maxtor 28348</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>50.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>Materiales para reparar equipo</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>M1401030 MULTIMETRO DIGITAL MC803</nombrearticulo>
+        <codigoarticulo>17447911</codigoarticulo>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Castrogres</idpersonaproveedor>
+        <preciocompra>26.69</preciocompra>
+        <idfamilia>Materiales para reparar equipo</idfamilia>
+        <fechabaja/>
+        <stockminimo>0.00</stockminimo>
+        <stockmaximo>0.00</stockmaximo>
+        <observaciones>M1401030 MULTIMETRO DIGITAL MC803</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Varios</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa>0.00</precioventa>
+        <idpersonaproveedor>Ferretería Hernández</idpersonaproveedor>
+        <preciocompra/>
+        <idfamilia>Materiales para reparar equipo</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>Obra civil, canalizaciones</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>Arqueta prefabricada 40x40</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>170.00</preciocompra>
+        <idfamilia>Obra civil, canalizaciones</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones>Suministro e instalación de arqueta prefabricada registrable de hormigon armado tipo M de 40x40x61 cm de medidas interiores completa incluso con tapa de fundición colocada sobre solera de hormigón de 15 cm de espesor incluso formación de agujeros para conexionado de tubos con medios auxiliares, incluida excavación y relleno perimetral y terminación en pavimento existente (asfalto, acera, jardín)</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Canalización aérea</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>5.00</preciocompra>
+        <idfamilia>Obra civil, canalizaciones</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones>Canalización aérea formada por hilo metálico anticorrosivo con tensores sobre postes aéreos de un máximo de 4 metros de altura cada 30 metros, incluidos los tensores, el hilo guía metálico, la colocación y tensionado sobre los postes existentes precolocados, así como aportación de la escalera y maquinaria de elevación móvil (Postes no incluidos. )</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Canalización en acera</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>80.00</preciocompra>
+        <idfamilia>Obra civil, canalizaciones</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones>Canalización en zanja de 0,05 x 0,20 m para 1 conducto tritubo de 40 mm de diámetro interior cada uno, embebido en prisma de hormigón hl150/p/20 de central de 5 cm de recubrimiento superior e inferior, incluso tritubo, hormigón y relleno de la capa superior con tierras procedentes de la excavación, en tongadas de &lt;25cm compactada al 95% del P.N., así como reposición del pavimento existente con loseta tipo Castro-Urdiales sobre solera de hormigón HM20/B/20 de 30 cm de espesor, con mandrilado y tendido de hilo-guía en conductos y subconductos. Incluido chapas para transito peatonal</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Canalización en calzada</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>150.00</preciocompra>
+        <idfamilia>Obra civil, canalizaciones</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones>Canalización de en zanja, de 0,25 x 0,80 m para 1 conducto tritubo de 40 mm de diámetro interior cada uno, embebido en prisma de hormigón hl 150/p/20 de central de 5 cm de recubrimiento superior e inferior, incluso tributo, hormigón y relleno de la capa superior con tierras procedentes de la excavación, en tongadas de &lt;25cm compactada al 95% del P.N., así como reposición del pavimento existente con asfalto en caliente sobre solera de hormigón HM20/B/20 de 30 cm de espesor, con mandrilado y tendido de hilo-guía en conductos y subconductos. Incluso colocación de chapas para tránsito rodado</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>Canalización en terreno ajardinado</nombrearticulo>
+        <codigoarticulo/>
+        <precioventa/>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>75.00</preciocompra>
+        <idfamilia>Obra civil, canalizaciones</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones>Canalización en zanja de 0,05 x 0,40 m para 1 conducto tritubo de 40 mm de diámetro interior cada uno, embebido en prisma de hormigón hl150/p/20 de central de 5 cm de recubrimiento superior e inferior, incluso tritubo, hormigón y relleno de la capa superior con tierras procedentes de la excavación, en tongadas de &lt;25cm compactada al 95% del P.N., así como reposición del terreno existente sobre solera de hormigón HM20/B/20 de 30 cm de espesor, con mandrilado y tendido de hilo-guía en conductos y subconductos. Incluidas chapas para transito rodado/peatonal</observaciones>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+    <familias>
+      <nombrefamilia>Toner</nombrefamilia>
+      <idtipoiva>Normal</idtipoiva>
+      <articulos>
+        <nombrearticulo>ISI-9182 NegroC-11000SCANN- LA RESID. NASH. SCAN N</nombrearticulo>
+        <codigoarticulo>91</codigoarticulo>
+        <precioventa>13.22</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>13.22</preciocompra>
+        <idfamilia>Toner</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9275 Color  Impresora TASKALFA 266CI</nombrearticulo>
+        <codigoarticulo>99</codigoarticulo>
+        <precioventa>75.20</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>75.20</preciocompra>
+        <idfamilia>Toner</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+      <articulos>
+        <nombrearticulo>ISI-9275 negro  Impresora TASKALFA 266CI</nombrearticulo>
+        <codigoarticulo>100</codigoarticulo>
+        <precioventa>10.00</precioventa>
+        <idpersonaproveedor>Ayuntamiento de Castro Urdiales</idpersonaproveedor>
+        <preciocompra>10.00</preciocompra>
+        <idfamilia>Toner</idfamilia>
+        <fechabaja/>
+        <stockminimo/>
+        <stockmaximo/>
+        <observaciones/>
+        <inventariar>No</inventariar>
+      </articulos>
+    </familias>
+  </tiposiva>
+  <NúmeroRegistros>4</NúmeroRegistros>
+</exportar>

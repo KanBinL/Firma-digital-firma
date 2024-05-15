@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="autoscript.js"></script>
+    <title>Firma Digital</title>
+</head>
+<body>
+<!-- Los botones llaman a funciones JavaScript que interactúan con el applet Java para firmar y guardar la firma digital.  -->
+
+    <!-- botones de "Firmar" y "Guardar Firma", que se activan mediante el código JavaScript. -->
+    <div id="botones" class="botoneraCentro">
+        <input type="button" id="botonFirmar" value="Firmar" onclick="javascript:firmar();">
+        <input type="button" id="saveFile" value="Guardar Firma" onclick="javascript:guardarFirma();" disabled="disabled"><br>
+    </div>
+
+    <div id="divmensaje"></div>
+    <br>
+
+
+
+    <script type="text/javascript">
+        var signature;
+        var filename;
+        var divMensaje = document.getElementById('divmensaje');
+        var btn_firmar = document.getElementById('botonFirmar');
+        var btn_save = document.getElementById('saveFile');
+        var saveExtension = "csig";
+        var saveDescription = "Firma avanzada CAdES (*.csig)";
+        
+        var autofirma = false;
+
+        // se utiliza para verificar si se ha cargado una aplicación de firma digital.
+        function isLoad() {
+            var tempCliente = document.getElementById("miniApplet");
+            var appletLoaded;
+
+            try {
+                appletLoaded = tempCliente != null && tempCliente.echo() != "Cliente JavaScript"; 
+            } catch (e) {
+                appletLoaded = false;
+            } 
+            
+            if (appletLoaded) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+        
+        //  se utiliza para activar el proceso de firma digital.
+        function firmar() {
+            if (isLoad()==false) {
+                autofirma = true;
+            } else {
+                autofirma = false;
+            }
+        
+            btn_firmar.disabled = true;
+            btn_save.disabled = true;
+            
+            divMensaje.innerHTML='Cargado AutoFirma, espera con paciencia.&nbsp;';
+    
+            var dataB64 = null;
+            var format = "AUTO";
+            var params;
+            try {
+                params = "mode=implicit";
+
+                if (autofirma==true) {
+                    dataB64 = null;
+                } else {
+                    var fichero = MiniApplet.getFileNameContentBase64("Selecciona un archivo ", "", "");
+
+                    var separatorIdx = fichero.indexOf("|");
+                    if ((separatorIdx + 1) < fichero.length) {
+                        filename = fichero.substring(0, separatorIdx);
+                        dataB64 = fichero.substring(separatorIdx + 1);
+                        
+                        var extension = getExtension(filename) + "";
+                        extension = extension.toUpperCase();
+                        
+                        if (extension == "PDF") {
+                            saveExtension = "pdf";
+                            saveDescription = "Adobe PDF (*.pdf)";
+                        } else if (extension == "XML" || extension == "XSIG") {
+                            saveExtension = "xsig";
+                            saveDescription = "Firma XML (*.xsig, *.xml)";
+                        }
+                    }
+                }
+
+                // se llama a una función proporcionada por la aplicación de firma digital llamada "MiniApplet.sign()". Esta función utiliza el algoritmo SHA256withRSA para firmar un archivo o datos.  
+                MiniApplet.sign(dataB64, "SHA256withRSA", format, params, successCallback, errorCallback);
+            } catch (e) {
+                //Se muestra el mensaje de error si NO es de cancelacion de la operacion
+                if ((e.message.indexOf("PrivilegedActionException")==-1) && 
+                    (e.message.indexOf("AOCancelledOperationException")==-1) && 
+                    (e.message.indexOf("Error calling method on NPObject")==-1) && 
+                    (e.message.indexOf("Operacion cancelada por el usuario")==-1)) {
+                    divMensaje.innerHTML='<div class="iconErrorFirma">Error al firmar</div><br><div style="width:300pt">&nbsp;' + e.message + '</div>';
+                }
+                btn_firmar.disabled = false;
+            }
+        }
+        
+        // Llama a la función "MiniApplet.saveDataToFile()" para guardar la firma en un archivo.
+        function guardarFirma(){		
+            if (autofirma==true) {
+                MiniApplet.saveDataToFile(signature, "Guardar firma", filename, saveExtension, saveDescription, successSaveCallback, errorSaveCallback);
+            } else {
+                var saveFile = MiniApplet.saveDataToFile(signature, "Guardar firma", filename, saveExtension, saveDescription);
+                if (saveFile==true) {
+                    divMensaje.innerHTML='<div class="iconOKFirma">Fichero firmado y almacenado correctamente</div><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;';
+                }
+            }
+        }
+        
+
+        // Otros
+        function getExtension(filename){
+            return (/[.]/.exec(filename)) ? /[^.]+$/.exec(filename) : undefined;
+        }
+        
+        function mostrarPantalla()	{
+            if (isLoad()==false) {
+                autofirma = true;
+            }
+
+            if (MiniApplet.isAndroid()) {
+                document.getElementById("firmaProcesoAND").style.display = "inline";
+            } else if (MiniApplet.isIOS()) {
+                document.getElementById("firmaProcesoIOS").style.display = "inline";
+            }
+        }
+    
+        function successCallback(signatureB64, certificateB64) {
+            signature = signatureB64;
+
+            if (autofirma==false) {
+                divMensaje.innerHTML='<div class="iconOKFirma">Fichero firmado correctamente</div><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;' + filename;
+            } else {
+                divMensaje.innerHTML='<br><div class="iconOKFirma">Fichero firmado correctamente</div><br>&nbsp;';
+            }
+            btn_firmar.disabled = false;
+            btn_save.disabled = false;  
+        }
+        
+        function errorCallback(errorType, errorMessage) {
+            if ((errorMessage) && (errorMessage.indexOf("AOCancelledOperationException")==-1) && (errorMessage.indexOf("Operacion cancelada por el usuario")==-1)) {
+                if (errorMessage.indexOf("El almacen no contenia entradas")!=-1) {
+                    divMensaje.innerHTML='<img class="iconStatus" src="/valide/img/iconFALLO.png">No existen certificados en el almac�n de su navegador<br><br>';
+                } else {
+                    divMensaje.innerHTML='<div class="iconErrorFirma">Error al firmar</div><br><div style="width:300pt">' + errorMessage + '</div>';
+                }
+            }
+            btn_firmar.disabled = false;
+        }
+    
+        function successSaveCallback() {
+            divMensaje.innerHTML='<div class="iconOKFirma">Fichero firmado y almacenado correctamente</div><br>&nbsp;';
+        }
+    
+        function errorSaveCallback(errorType, errorMessage) {
+            divMensaje.innerHTML='<div class="iconErrorFirma">Error al firmar</div><br><div style="width:300pt">' + errorMessage + '</div>';
+            btn_firmar.disabled = false;
+        }
+        
+        function waiting(comando, segundos) {
+            var waiting;
+            var intento;
+
+            if (waiting) {
+                return true;
+            } else {
+                if (segundos==0) {
+                    eval(comando);
+                } else {
+                    segundos = segundos - 1;
+                }
+
+                var func = function() { 
+                    this.waiting(comando, segundos);
+                }
+                setTimeout(func, 1000);
+            }
+        }
+    
+        MiniApplet.cargarMiniApplet("https://valide.redsara.es/valide/applet");
+        
+        if (navigator.userAgent.toUpperCase().indexOf("FIREFOX")!=-1) {
+            if (navigator.javaEnabled()==false) {
+                autofirma = true;
+                mostrarPantalla();
+            } else {
+                waiting("mostrarPantalla()", 10);
+            }
+        } else {
+            if ((navigator.javaEnabled()==false) || (isLoad()==false)) {
+                autofirma = true;
+            }
+            mostrarPantalla();
+        }
+        
+    </script>
+
+</body>
+</html>
